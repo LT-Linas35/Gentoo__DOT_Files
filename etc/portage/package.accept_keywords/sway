@@ -1,0 +1,5 @@
+gui-wm/sway **
+gui-libs/wlroots **
+dev-libs/wayland **
+dev-util/wayland-scanner **
+
